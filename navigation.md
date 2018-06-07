@@ -1,6 +1,6 @@
 # Heap-Space
 
-[gimmick:theme](Solar)
+[gimmick:theme](yeti)
 
 [Bash](bash.md)
 [Databases]()
