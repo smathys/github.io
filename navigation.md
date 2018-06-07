@@ -1,8 +1,7 @@
 # Heap-Space
 
-[gimmick:theme](solar)
+[gimmick:theme](Solar)
 
-[Workplace](worplace.md)
 [Bash](bash.md)
 [Databases]()
 [Docker]()
